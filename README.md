@@ -18,8 +18,8 @@
 [그림7 : firefox 확장프로그램 사용으로 DB생성및 관리] <br>
 ![item1](/image/item1.png) ![item2](/image/item2.png) ![item3](/image/item3.png) ![item4](/image/item4.png) ![item5](/image/item5.png)
 [그림8 : 아이템들] <br>
-![car2](/image/car2.png)
-[그림9 : 별아이템을 먹고 빨라진 도둑자동차]
+![car2](/image/car2.png) <br>
+[그림9 : 별아이템을 먹고 빨라진 도둑자동차] <br>
 
 
 ## 1. 착안점
