@@ -3,21 +3,21 @@
 
 ### 게임 실행 화면
 ![game1](/image/game1.png) <br>
-[그림1 : 게임 실행 중 화면, 맵화면 양쪽에 있는 배경을 랜덤하게 생성, 도로를 사용자 기준 앞뒤로 이동시킴 ]
+[그림1 : 게임 실행 중 화면, 맵화면 양쪽에 있는 배경을 랜덤하게 생성, 도로를 사용자 기준 앞뒤로 이동시킴 ] <br>
 ![car](/image/car.png) <br>
-[그림2 : 컨셉에 맞는 자동차, 게임 실행중 경찰차가 도둑차를 잡으면 게임이 이김으로 끝남]
-![game2](/image/game2.png)
-[그림3 : 게임 실행 첫 화면]
-![game3](/image/game3.png)
-[그림4 : 게임 일시정지 화면]
-![game4](/image/game4.png)
-[그림5 : 점수 기록 화면]
-![game5](/image/game5.png)
-[그림6 : 순위 화면, sqllite를 사용하여 순위를 저장, 로컬데이터베이스]
-![sqlㅣite](/image/sqlite.png)
-[그림7 : firefox 확장프로그램 사용으로 DB생성및 관리]
+[그림2 : 컨셉에 맞는 자동차, 게임 실행중 경찰차가 도둑차를 잡으면 게임이 이김으로 끝남] <br>
+![game2](/image/game2.png) <br>
+[그림3 : 게임 실행 첫 화면] <br>
+![game3](/image/game3.png) <br>
+[그림4 : 게임 일시정지 화면] <br>
+![game4](/image/game4.png) <br> 
+[그림5 : 점수 기록 화면] <br>
+![game5](/image/game5.png) <br>
+[그림6 : 순위 화면, sqllite를 사용하여 순위를 저장, 로컬데이터베이스] <br>
+![sqllite](/image/sqlite.png) <br>
+[그림7 : firefox 확장프로그램 사용으로 DB생성및 관리] <br>
 ![item1](/image/item1.png) ![item2](/image/item2.png) ![item3](/image/item3.png) ![item4](/image/item4.png) ![item5](/image/item5.png)
-[그림8 : 아이템들]
+[그림8 : 아이템들] <br>
 
 
 
