@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c7b1bc6b229db43a8f98bd0e9669da, type: 3}
+  m_Name: Basic Theme
+  m_EditorClassIdentifier: 
+  palette:
+  - name: 
+    tag: 
+    normal: {r: 1, g: 1, b: 1, a: 1}
+    highlighted: {r: 1, g: 1, b: 1, a: 1}
+    pressed: {r: 0.39999998, g: 0.39999998, b: 0.39999998, a: 1}
+    disabled: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    detail: {r: 0.18382353, g: 0.18382353, b: 0.18382353, a: 1}
+  - name: 
+    tag: Untagged
+    normal: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    highlighted: {r: 0.84901965, g: 0.84901965, b: 0.84901965, a: 1}
+    pressed: {r: 0.31372547, g: 0.31372547, b: 0.31372547, a: 1}
+    disabled: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    detail: {r: 0.066176474, g: 0.066176474, b: 0.066176474, a: 1}
+  - name: 
+    tag: 
+    normal: {r: 0.14509805, g: 0.32156864, b: 0.4, a: 1}
+    highlighted: {r: 0.40156865, g: 0.525098, b: 0.58, a: 1}
+    pressed: {r: 0.058039214, g: 0.12862745, b: 0.16, a: 1}
+    disabled: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    detail: {r: 1, g: 1, b: 1, a: 1}
+  - name: 
+    tag: 
+    normal: {r: 0.08235294, g: 0.08235294, b: 0.08235294, a: 1}
+    highlighted: {r: 0.35764706, g: 0.35764706, b: 0.35764706, a: 1}
+    pressed: {r: 0.032941174, g: 0.032941174, b: 0.032941174, a: 1}
+    disabled: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    detail: {r: 1, g: 1, b: 1, a: 1}
+  - name: 
+    tag: 
+    normal: {r: 0.49411765, g: 0.81960785, b: 0.9098039, a: 1}
+    highlighted: {r: 0.64588237, g: 0.8737255, b: 0.93686277, a: 1}
+    pressed: {r: 0.19764705, g: 0.32784313, b: 0.36392155, a: 1}
+    disabled: {r: 0.8784314, g: 0.8784314, b: 0.8784314, a: 1}
+    detail: {r: 1, g: 1, b: 1, a: 1}
+  effectSets:
+  - name: Shadow
+    tag: 
+    gradient: 0
+    gradientTop: {r: 1, g: 1, b: 1, a: 1}
+    gradientBottom: {r: 0, g: 0, b: 0, a: 1}
+    shadow: 1
+    shadowColor: {r: 0, g: 0, b: 0, a: 1}
+    shadowOffset: {x: 2, y: -2}
+    radialGradient: 0
+    radialColor: {r: 1, g: 1, b: 1, a: 1}
+    centerPosition: {x: 0, y: 0}
+    radius: 0
+    mirrorEffect: 0
+    mirrorScale: 0
+    mirrorOffset: {x: 0, y: 0}
+    mirrorSkew: 0
+    mirrorTop: {r: 1, g: 1, b: 1, a: 1}
+    mirrorBottom: {r: 1, g: 1, b: 1, a: 1}
+    skewEffect: 0
+    skew: 0
+    perspective: 0
+  - name: Gradient
+    tag: 
+    gradient: 1
+    gradientTop: {r: 1, g: 1, b: 1, a: 1}
+    gradientBottom: {r: 0.52205884, g: 0.52205884, b: 0.52205884, a: 1}
+    shadow: 1
+    shadowColor: {r: 0, g: 0, b: 0, a: 1}
+    shadowOffset: {x: 2, y: -2}
+    radialGradient: 0
+    radialColor: {r: 1, g: 1, b: 1, a: 1}
+    centerPosition: {x: 0, y: 0}
+    radius: 0
+    mirrorEffect: 0
+    mirrorScale: 0
+    mirrorOffset: {x: 0, y: 0}
+    mirrorSkew: 0
+    mirrorTop: {r: 1, g: 1, b: 1, a: 1}
+    mirrorBottom: {r: 1, g: 1, b: 1, a: 1}
+    skewEffect: 0
+    skew: 0
+    perspective: 0
+  - name: Shadow and Gradient
+    tag: 
+    gradient: 1
+    gradientTop: {r: 1, g: 1, b: 1, a: 1}
+    gradientBottom: {r: 0.33088237, g: 0.33088237, b: 0.33088237, a: 1}
+    shadow: 1
+    shadowColor: {r: 0, g: 0, b: 0, a: 0.47843137}
+    shadowOffset: {x: 0, y: -2}
+    radialGradient: 0
+    radialColor: {r: 1, g: 1, b: 1, a: 1}
+    centerPosition: {x: 0, y: 0}
+    radius: 0
+    mirrorEffect: 0
+    mirrorScale: 0
+    mirrorOffset: {x: 0, y: 0}
+    mirrorSkew: 0
+    mirrorTop: {r: 1, g: 1, b: 1, a: 1}
+    mirrorBottom: {r: 1, g: 1, b: 1, a: 1}
+    skewEffect: 0
+    skew: 0
+    perspective: 0
