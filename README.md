@@ -14,7 +14,7 @@
 [그림5 : 점수 기록 화면] <br>
 ![game5](/image/game5.png) <br>
 [그림6 : 순위 화면, sqllite를 사용하여 순위를 저장, 로컬데이터베이스] <br>
-![sqllite](/image/sqlite.png) <br>
+![sqllite](/image/sqllite.png) <br>
 [그림7 : firefox 확장프로그램 사용으로 DB생성및 관리] <br>
 ![item1](/image/item1.png) ![item2](/image/item2.png) ![item3](/image/item3.png) ![item4](/image/item4.png) ![item5](/image/item5.png)
 [그림8 : 아이템들] <br>
