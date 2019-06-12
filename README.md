@@ -1,6 +1,7 @@
 # unity 3d car runner : Police and thief
 ---
-
+### 게임 실행 방법
+다운로드후 runfile안의 exe 파일을 실행하면 됩니다.
 ### 게임 실행 화면
 ![game1](/image/game1.png) <br>
 [그림1 : 게임 실행 중 화면, 맵화면 양쪽에 있는 배경을 랜덤하게 생성, 도로를 사용자 기준 앞뒤로 이동시킴 ] <br>
